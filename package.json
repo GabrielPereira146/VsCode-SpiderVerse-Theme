@@ -1,0 +1,41 @@
+{
+  "name": "spider-verse-theme",
+  "displayName": "SpiderVerse Theme",
+  "description": "Theme based on spider man across the spider verse",
+  "version": "1.0.0",
+  "publisher": "Gabriel S. Pereira",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "assets/spiderman-across-the-spider-verse-2023.jpg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "SpiderVerse Miles",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SpiderVerseMiles.json"
+      },
+
+      {
+        "label": "SpiderVerse Gwen",
+        "uiTheme": "vs",
+        "path": "./themes/SpiderVerseGwen.json"
+      },
+
+      {
+        "label": "SpiderVerse 2099",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SpiderVerse2099.json"
+      },
+
+      {
+        "label": "SpiderVerse Peter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SpiderVerse2099.json"
+      }
+    ]
+  }
+}
