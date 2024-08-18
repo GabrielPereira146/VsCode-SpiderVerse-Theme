@@ -3,14 +3,23 @@
   "displayName": "SpiderVerse Theme",
   "description": "Theme based on spider man across the spider verse",
   "version": "1.0.0",
-  "publisher": "Gabriel S. Pereira",
+  "publisher": "GabrielBrown",
   "engines": {
     "vscode": "^1.92.0"
   },
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+    "color": "#4C4C4C",
+    "theme": "dark"
+  },
   "icon": "assets/spiderman-across-the-spider-verse-2023.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GabrielPereira146/VsCode-SpiderVerse-Theme"
+  } ,
+  "license": "MIT",
   "contributes": {
     "themes": [
       {
@@ -34,7 +43,7 @@
       {
         "label": "SpiderVerse Peter",
         "uiTheme": "vs-dark",
-        "path": "./themes/SpiderVerse2099.json"
+        "path": "./themes/SpiderVersePeter.json"
       }
     ]
   }
