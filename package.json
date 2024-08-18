@@ -2,7 +2,7 @@
   "name": "spider-verse-theme",
   "displayName": "SpiderVerse Theme",
   "description": "Theme based on spider man across the spider verse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "GabrielBrown",
   "engines": {
     "vscode": "^1.92.0"
